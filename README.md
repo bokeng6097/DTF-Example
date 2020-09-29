@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # django-rest-api
 A demo REST api written in Python and Django.
 
@@ -9,6 +8,3 @@ To run the unit test for the api, execute the following command.<br />
 
 # Dependencies<br />
 - pip install -r requirements.txt
-=======
-# DTF-Example
->>>>>>> 95c56205e98fe6929695fc81a17af87227fcabec
